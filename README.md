@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Fullstack Developer (in training) based in Lancashire UK
+I'm a Fullstack Developer based in Lancashire UK
 
 - 🔭 I’m currently working on forever improving my CSS skills
 - 🌱 I’m currently learning Fullstack Web Development
